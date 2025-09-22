@@ -108,14 +108,14 @@ local aa = {
         v(w)
         t:Init(w)
         local x = {
-            Version = "1.1.0",
+            Version = "1.0.0",
             OpenFrames = {},
             Options = {},
             Themes = e(o.Themes).Names,
             Window = nil,
             WindowFrame = nil,
             Unloaded = false,
-            Theme = "TuanAnhIOS",
+            Theme = "SapphireHubTheme",
             DialogOpen = false,
             UseAcrylic = false,
             Acrylic = false,
